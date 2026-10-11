@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { BookOpen, CheckCircle2, ChevronLeft, ChevronRight, CircleHelp, Clock3, GraduationCap, LayoutDashboard, LogOut, RotateCcw, Target, Trophy, XCircle } from "lucide-react";
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:5000/api";
+const API = import.meta.env.VITE_API_URL || "https://psychology-of-learning-backend.onrender.com/api";
 const USERS_KEY = "learnwise-users-v1";
 const CURRENT_USER_KEY = "learnwise-current-user-v1";
 const localKey = "learnwise-attempts-v1";
