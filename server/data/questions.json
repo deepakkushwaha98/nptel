@@ -1,0 +1,1786 @@
+[
+  {
+    "id": 1,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 1,
+    "question": "Learning is often seen as the contiguous causal effect of ____ on behavior.",
+    "options": [
+      "blood",
+      "bone density",
+      "trauma",
+      "experience"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment identifies experience as the causal influence on behavior."
+  },
+  {
+    "id": 2,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 2,
+    "question": "In order to say that learning has occurred, a hidden change in behavior must occur.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment marks this statement false."
+  },
+  {
+    "id": 3,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 3,
+    "question": "Which of the following is not a mental construct?",
+    "options": [
+      "skeleton",
+      "knowledge",
+      "representations",
+      "associations"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment identifies skeleton as not being a mental construct."
+  },
+  {
+    "id": 4,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 4,
+    "question": "Learning changes the ___ structure of the brain through continuous interactions between learner and environment.",
+    "options": [
+      "physical",
+      "social",
+      "biological",
+      "none of the given"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is physical."
+  },
+  {
+    "id": 5,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 5,
+    "question": "___ shapes the learning process.",
+    "options": [
+      "Only thoughts",
+      "Only emotions",
+      "Both thoughts and emotions",
+      "Neither thoughts nor emotions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Both thoughts and emotions shape learning."
+  },
+  {
+    "id": 6,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 6,
+    "question": "Watson's Little Albert experiment conditioned a child to ___ a white rat.",
+    "options": [
+      "fear",
+      "love",
+      "hate",
+      "play with"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is fear."
+  },
+  {
+    "id": 7,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 7,
+    "question": "Behaviorism dominated psychology for much of the early ___ century.",
+    "options": [
+      "20th",
+      "19th",
+      "18th",
+      "17th"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is the 20th century."
+  },
+  {
+    "id": 8,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 8,
+    "question": "The state of “conscious incompetence” may be valuable ___ of a learning experience.",
+    "options": [
+      "at the end",
+      "in the middle",
+      "2 years after the end",
+      "at the start"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is at the start."
+  },
+  {
+    "id": 9,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 9,
+    "question": "Which is not an outcome of effective e-learning?",
+    "options": [
+      "wider range of strategies",
+      "more reflective approach",
+      "more positive emotions towards learning",
+      "more disconnected knowledge"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment identifies more disconnected knowledge."
+  },
+  {
+    "id": 10,
+    "week": 1,
+    "weekTitle": "Foundations of Learning",
+    "number": 10,
+    "question": "Instrumental conditioning is an example of ___ learning.",
+    "options": [
+      "sensitization",
+      "habituation",
+      "associative",
+      "meaningful"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is associative learning."
+  },
+  {
+    "id": 11,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 1,
+    "question": "The three major types of learning described by ___ psychology are classical conditioning, operant conditioning and observational learning.",
+    "options": [
+      "cognitive",
+      "behavioral",
+      "emotional",
+      "evolutionary"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment identifies behavioral psychology."
+  },
+  {
+    "id": 12,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 2,
+    "question": "According to Watson, psychology is ___.",
+    "options": [
+      "subjective",
+      "only descriptive",
+      "experimental",
+      "about unobservable internal mental processes"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is experimental."
+  },
+  {
+    "id": 13,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 3,
+    "question": "___ is given by Ivan Pavlov.",
+    "options": [
+      "Operant conditioning",
+      "Functional conditioning",
+      "Classical conditioning",
+      "Modern conditioning"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pavlov is associated here with classical conditioning."
+  },
+  {
+    "id": 14,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 4,
+    "question": "Learning to respond to certain stimuli but not others is known as ___.",
+    "options": [
+      "stimulus generalization",
+      "stimulus appreciation",
+      "stimulus discrimination",
+      "stimulus differentiation"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is stimulus discrimination."
+  },
+  {
+    "id": 15,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 5,
+    "question": "Higher-order conditioning is intrinsically weaker than its first-order counterpart.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment marks this true."
+  },
+  {
+    "id": 16,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 6,
+    "question": "The process of gradually changing the quality of a response is ___.",
+    "options": [
+      "Shaping",
+      "Modeling",
+      "Cueing",
+      "Shifting"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is shaping."
+  },
+  {
+    "id": 17,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 7,
+    "question": "The works instrumental in the shift from behaviorism to cognitive theories were by ___.",
+    "options": [
+      "Edward C. Tolman",
+      "Jean Piaget",
+      "German Gestalt",
+      "All of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 18,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 8,
+    "question": "___ intelligence involves perceiving the visual-spatial world and recognizing/manipulating spatial patterns.",
+    "options": [
+      "Interpersonal",
+      "Spatial",
+      "Bodily-kinesthetic",
+      "Linguistic"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is spatial intelligence."
+  },
+  {
+    "id": 19,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 9,
+    "question": "Sternberg proposed his theory in 1985 as an alternative to the idea of the ___.",
+    "options": [
+      "general intelligence factor",
+      "multiple intelligences",
+      "specific intelligence factor",
+      "unconscious intelligence"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is general intelligence factor."
+  },
+  {
+    "id": 20,
+    "week": 2,
+    "weekTitle": "Behaviorism and Intelligence",
+    "number": 10,
+    "question": "Which is not a kind of product in the structure of intellect model?",
+    "options": [
+      "symbolic",
+      "classes",
+      "systems",
+      "implications"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is symbolic."
+  },
+  {
+    "id": 21,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 1,
+    "question": "The connections between nerve cells are called ___.",
+    "options": [
+      "systems",
+      "syntaxes",
+      "neurons",
+      "synapses"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is synapses."
+  },
+  {
+    "id": 22,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 2,
+    "question": "To create a ___, information must be changed into a usable form through encoding.",
+    "options": [
+      "past memory",
+      "new imagination",
+      "new memory",
+      "past imagination"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is new memory."
+  },
+  {
+    "id": 23,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 3,
+    "question": "Calling back stored information in response to a cue is called ___.",
+    "options": [
+      "Retrieval",
+      "Recall",
+      "Recollection",
+      "All of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment accepts all of the given."
+  },
+  {
+    "id": 24,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 4,
+    "question": "Reading facial expressions and knowing how to respond can be confusing for people with ___ deficits.",
+    "options": [
+      "memory",
+      "intelligence",
+      "social cognition",
+      "biological cognition"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is social cognition."
+  },
+  {
+    "id": 25,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 5,
+    "question": "The Information Processing View assumes there are limits to how much information can be processed at each stage.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment marks this true."
+  },
+  {
+    "id": 26,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 6,
+    "question": "The Information Processing View assumes information processing is involved in ___.",
+    "options": [
+      "forgetting",
+      "remembering",
+      "perceiving",
+      "All of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 27,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 7,
+    "question": "The capacity of the sensory register is ___.",
+    "options": [
+      "very small",
+      "very large",
+      "7 +/- 2 chunks",
+      "unlimited"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is very large."
+  },
+  {
+    "id": 28,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 8,
+    "question": "Most children do not begin to rehearse on their own until about age ___.",
+    "options": [
+      "seven",
+      "two",
+      "thirteen",
+      "one"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is seven."
+  },
+  {
+    "id": 29,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 9,
+    "question": "Which provides an interface between working-memory subsystems and the episodic part of long-term memory?",
+    "options": [
+      "Phonological loop",
+      "Visuo-spatial sketchpad",
+      "Retrieval buffer",
+      "Episodic buffer"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is episodic buffer."
+  },
+  {
+    "id": 30,
+    "week": 3,
+    "weekTitle": "Memory and Information Processing",
+    "number": 10,
+    "question": "Memories of specific episodes of one’s life refer to ___.",
+    "options": [
+      "declarative memory",
+      "experimental episodic memory",
+      "autobiographical episodic memory",
+      "procedural memory"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is autobiographical episodic memory."
+  },
+  {
+    "id": 31,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 1,
+    "question": "___ thinking is the ability to create mental representations of objects, places, events or people.",
+    "options": [
+      "General",
+      "Creative",
+      "Divergent",
+      "Symbolic"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is symbolic thinking."
+  },
+  {
+    "id": 32,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 2,
+    "question": "We compare new information to our ___ of a person, place or thing to categorize it mentally.",
+    "options": [
+      "protofit",
+      "protobite",
+      "prototype",
+      "none of the given"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is prototype."
+  },
+  {
+    "id": 33,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 3,
+    "question": "Which statement is not true?",
+    "options": [
+      "Thinking is a higher mental process",
+      "Thinking is sub-vocal talking",
+      "Thinking is fulfilling a need or problem solving",
+      "Thinking is only done in verbal symbols"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment identifies the last statement as not true."
+  },
+  {
+    "id": 34,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 4,
+    "question": "Mental images are ___.",
+    "options": [
+      "Auditory",
+      "Visual",
+      "Gustatory",
+      "All of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 35,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 5,
+    "question": "___ organize complex phenomena into simpler, usable categories and help solve problems.",
+    "options": [
+      "Concepts",
+      "Propositions",
+      "Constructs",
+      "Components"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is concepts."
+  },
+  {
+    "id": 36,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 6,
+    "question": "The lowermost level of Bloom’s taxonomy is ___.",
+    "options": [
+      "remember",
+      "apply",
+      "understand",
+      "analyze"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is remember."
+  },
+  {
+    "id": 37,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 7,
+    "question": "The psychomotor domain of Bloom’s taxonomy is concerned with ___.",
+    "options": [
+      "Biological makeup",
+      "Thoughts and beliefs",
+      "Feelings and emotions",
+      "Skilled behavior"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is skilled behavior."
+  },
+  {
+    "id": 38,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 8,
+    "question": "Which is an example of metacognition skills?",
+    "options": [
+      "Ignoring your limits",
+      "Self-monitoring",
+      "Skimming all important information",
+      "All of the given"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is self-monitoring."
+  },
+  {
+    "id": 39,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 9,
+    "question": "Which critical-thinking skill helps analyze information to reach an unbiased conclusion?",
+    "options": [
+      "Open-mindedness",
+      "Self-regulation",
+      "Self-control",
+      "Observation"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is open-mindedness."
+  },
+  {
+    "id": 40,
+    "week": 4,
+    "weekTitle": "Thinking and Cognition",
+    "number": 10,
+    "question": "The inspiration phase of creative thinking refers to the ___ stage.",
+    "options": [
+      "Incubation",
+      "Insight",
+      "Evaluation",
+      "Preparation"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is preparation."
+  },
+  {
+    "id": 41,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 1,
+    "question": "Which of the following is true about motivation?",
+    "options": [
+      "It is a physical impulse",
+      "It is an external process",
+      "It activates but does not channel learners’ attitudes",
+      "None of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is none of the given."
+  },
+  {
+    "id": 42,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 2,
+    "question": "The term “motivation” comes from a ___ word.",
+    "options": [
+      "Greek",
+      "Latin",
+      "Hindi",
+      "Bengali"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is Latin."
+  },
+  {
+    "id": 43,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 3,
+    "question": "It is extrinsic motivation if the causal factor is ___.",
+    "options": [
+      "curiosity",
+      "social pressure",
+      "self-satisfaction",
+      "needs"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is social pressure."
+  },
+  {
+    "id": 44,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 4,
+    "question": "___ motivation is associated with deep learning, better performance and self-efficacy.",
+    "options": [
+      "Intrinsic",
+      "Extrinsic",
+      "Introjected regulation",
+      "None of the given"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is intrinsic."
+  },
+  {
+    "id": 45,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 5,
+    "question": "Who proposed three primary drives that drive human behavior?",
+    "options": [
+      "Hull",
+      "Watson",
+      "Piaget",
+      "Gestalt"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is Hull."
+  },
+  {
+    "id": 46,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 6,
+    "question": "Expectancy Theory of Motivation was developed by ___.",
+    "options": [
+      "Vroom",
+      "Hull",
+      "Murray",
+      "None of the given"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is Vroom."
+  },
+  {
+    "id": 47,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 7,
+    "question": "“If I work hard I can achieve the targets my boss has set” is an example of ___.",
+    "options": [
+      "purposeful",
+      "valence",
+      "instrumentality",
+      "expectancy"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is expectancy."
+  },
+  {
+    "id": 48,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 8,
+    "question": "In SMART goals, T stands for ___.",
+    "options": [
+      "Temporary",
+      "Time-based",
+      "Tough",
+      "Testing"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is time-based."
+  },
+  {
+    "id": 49,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 9,
+    "question": "Friendship is a ___ need in Maslow’s hierarchy.",
+    "options": [
+      "Love and belonging",
+      "Esteem",
+      "Physiological",
+      "Safety"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is love and belonging."
+  },
+  {
+    "id": 50,
+    "week": 5,
+    "weekTitle": "Motivation",
+    "number": 10,
+    "question": "Which theory differentiates autonomous motivation from controlled motivation?",
+    "options": [
+      "Arousal",
+      "Goal-setting",
+      "Need hierarchy",
+      "Self-determination"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is self-determination theory."
+  },
+  {
+    "id": 51,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 1,
+    "question": "According to Daniel Goleman, which component of emotional intelligence focuses on handling relationships with others?",
+    "options": [
+      "self-awareness",
+      "motivation",
+      "empathy",
+      "emotional regulation"
+    ],
+    "correctIndex": 2,
+    "explanation": "The uploaded assignment marks empathy."
+  },
+  {
+    "id": 52,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 2,
+    "question": "Emotional intelligence can be considered a type of ___ intelligence.",
+    "options": [
+      "academic",
+      "genetic",
+      "social",
+      "external"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is social intelligence."
+  },
+  {
+    "id": 53,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 3,
+    "question": "Noticing a difficult emotion and resisting an impulsive action highlights ___.",
+    "options": [
+      "Self-regulation",
+      "Motivation",
+      "Emotional literacy",
+      "Empathy"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is self-regulation."
+  },
+  {
+    "id": 54,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 4,
+    "question": "Which is not a sign of emotional intelligence?",
+    "options": [
+      "strong sense of curiosity",
+      "holding onto mistakes",
+      "managing emotions in difficult situations",
+      "self-confidence"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment identifies holding onto mistakes."
+  },
+  {
+    "id": 55,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 5,
+    "question": "Perceiving emotions means ___.",
+    "options": [
+      "Ignoring signals",
+      "Understanding only spoken words",
+      "Understanding only facial expression",
+      "Understanding verbal and nonverbal signals"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is understanding both verbal and nonverbal signals."
+  },
+  {
+    "id": 56,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 6,
+    "question": "Who suggests that 10 distinct components scaffold emotionally and socially intelligent behaviors?",
+    "options": [
+      "Bar-On",
+      "Goleman",
+      "Salovey",
+      "Mayer"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is Bar-On."
+  },
+  {
+    "id": 57,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 7,
+    "question": "Which of the following is a facilitator of EQ?",
+    "options": [
+      "optimism",
+      "happiness",
+      "independence",
+      "all of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The uploaded answer key marks option D, all of the given."
+  },
+  {
+    "id": 58,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 8,
+    "question": "Which is a strategy for improving self-awareness?",
+    "options": [
+      "rejecting feedback",
+      "using critical self-talk daily",
+      "developing a fixed mindset",
+      "pursuing one’s passion"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is pursuing one’s passion."
+  },
+  {
+    "id": 59,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 9,
+    "question": "Having students create autobiographies is an example of creating opportunities for ___.",
+    "options": [
+      "emotional labor",
+      "emotional contagion",
+      "metacognition",
+      "none of the given"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is metacognition."
+  },
+  {
+    "id": 60,
+    "week": 6,
+    "weekTitle": "Emotional Intelligence",
+    "number": 10,
+    "question": "Which statement is not true about management of emotions?",
+    "options": [
+      "It is essentially a private act",
+      "It is directly regulated by others",
+      "It is influenced by cultural norms",
+      "It is influenced by social expectations"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment identifies direct regulation by others as not true."
+  },
+  {
+    "id": 61,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 1,
+    "question": "Which is false about learning according to Gagné’s definition?",
+    "options": [
+      "It is a change in human disposition",
+      "It persists over time",
+      "It is simply ascribable to growth",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment identifies the growth-only statement as false."
+  },
+  {
+    "id": 62,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 2,
+    "question": "Manual or physical skills come under which component of Bloom’s taxonomy?",
+    "options": [
+      "Cognitive",
+      "Affective",
+      "Psychomotor",
+      "Physical"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is psychomotor."
+  },
+  {
+    "id": 63,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 3,
+    "question": "Reflection, learning and education was explored by ___.",
+    "options": [
+      "Carl Rogers",
+      "John Watson",
+      "Benjamin Bloom",
+      "John Dewey"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is John Dewey."
+  },
+  {
+    "id": 64,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 4,
+    "question": "The principles of ___ refer to how close in time two events must be for a bond to form.",
+    "options": [
+      "behavior",
+      "reinforcement",
+      "repetition",
+      "contiguity"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is contiguity."
+  },
+  {
+    "id": 65,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 5,
+    "question": "___ gives learners information about their success or failure concerning a task.",
+    "options": [
+      "Cognitive feedback",
+      "Emotional feedback",
+      "Reinforcement",
+      "Physical feedback"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is cognitive feedback."
+  },
+  {
+    "id": 66,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 6,
+    "question": "Which learning orientation involves personal involvement in both feeling and cognition?",
+    "options": [
+      "behavioral",
+      "cognitive",
+      "humanistic",
+      "social"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is humanistic."
+  },
+  {
+    "id": 67,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 7,
+    "question": "Learning through play is ___ learning.",
+    "options": [
+      "primary",
+      "secondary",
+      "passive",
+      "active"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is active."
+  },
+  {
+    "id": 68,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 8,
+    "question": "People who sort their ideas after speaking rather than before may have which learning style?",
+    "options": [
+      "logical",
+      "solitary",
+      "visual",
+      "auditory"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is auditory."
+  },
+  {
+    "id": 69,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 9,
+    "question": "Which statement about effective instruction is false?",
+    "options": [
+      "Effective instruction is static",
+      "Effective instruction is eclectic",
+      "Effective instruction is generative",
+      "Effective instruction is interactive"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment identifies static as false."
+  },
+  {
+    "id": 70,
+    "week": 7,
+    "weekTitle": "Learning Theories and Instruction",
+    "number": 10,
+    "question": "In the ADDIE model, I stands for ___.",
+    "options": [
+      "instruction",
+      "implementation",
+      "integration",
+      "induction"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is implementation."
+  },
+  {
+    "id": 71,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 1,
+    "question": "The word ‘pedagogy’ is derived from the ___ word “pedagogue”.",
+    "options": [
+      "Latin",
+      "Sanskrit",
+      "Greek",
+      "English"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is Greek."
+  },
+  {
+    "id": 72,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 2,
+    "question": "Which statement is not true about pedagogy?",
+    "options": [
+      "It is a method of teaching",
+      "It derives from Greek ‘pedagogue’",
+      "It helps teachers facilitate learning",
+      "It harms teaching and learning quality"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment identifies the last statement as not true."
+  },
+  {
+    "id": 73,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 3,
+    "question": "Pedagogy can enhance the student-teacher relationship.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment marks this true."
+  },
+  {
+    "id": 74,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 4,
+    "question": "___ learning creates knowledge through members actively interacting and sharing experiences.",
+    "options": [
+      "integrative",
+      "inquiry-based",
+      "collaborative",
+      "constructivist"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is collaborative."
+  },
+  {
+    "id": 75,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 5,
+    "question": "The Pedagogical Model breaks the learning cycle into ___ domains or phases of instruction.",
+    "options": [
+      "five",
+      "three",
+      "two",
+      "seven"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is five."
+  },
+  {
+    "id": 76,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 6,
+    "question": "Which is not a type of inquiry-based approach?",
+    "options": [
+      "confrontation",
+      "structure",
+      "guided",
+      "open"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is confrontation."
+  },
+  {
+    "id": 77,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 7,
+    "question": "In experiential learning, students are engaged ___.",
+    "options": [
+      "intellectually",
+      "soulfully",
+      "socially",
+      "all of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 78,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 8,
+    "question": "Which Kolb experiential-learning stage focuses on planning?",
+    "options": [
+      "concrete experience",
+      "abstract conceptualization",
+      "reflective observation",
+      "active experimentation"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is active experimentation."
+  },
+  {
+    "id": 79,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 9,
+    "question": "People who act on gut feeling and rely on others’ analysis may have which learning style?",
+    "options": [
+      "accommodating",
+      "converging",
+      "diverging",
+      "assimilating"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is accommodating."
+  },
+  {
+    "id": 80,
+    "week": 8,
+    "weekTitle": "Pedagogy and Experiential Learning",
+    "number": 10,
+    "question": "According to which principle do learners benefit from animation with narration rather than animation with on-screen text?",
+    "options": [
+      "multimedia",
+      "modality",
+      "coherence",
+      "temporal contiguity"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is modality."
+  },
+  {
+    "id": 81,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 1,
+    "question": "E-learning is any form of ___.",
+    "options": [
+      "teaching",
+      "training",
+      "tutoring",
+      "all of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 82,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 2,
+    "question": "Which is a feature of e-learning?",
+    "options": [
+      "difficulty in access",
+      "user friendliness",
+      "social injustice",
+      "closed learning"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is user friendliness."
+  },
+  {
+    "id": 83,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 3,
+    "question": "E-learning is a synonym of audio-visual learning, multimedia learning and distance learning.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment marks this false."
+  },
+  {
+    "id": 84,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 4,
+    "question": "Which is not a type of e-learning?",
+    "options": [
+      "text-driven",
+      "interactive",
+      "simulation",
+      "physical"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is physical."
+  },
+  {
+    "id": 85,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 5,
+    "question": "Which is not a benefit of e-learning?",
+    "options": [
+      "can accommodate a housewife’s needs",
+      "content can be revised repeatedly",
+      "helps develop and communicate training policies",
+      "none of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is none of the given."
+  },
+  {
+    "id": 86,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 6,
+    "question": "Good learners know ___.",
+    "options": [
+      "what they are learning",
+      "why they are learning",
+      "how they are learning",
+      "all of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 87,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 7,
+    "question": "Multitasking during an online course may result in ___.",
+    "options": [
+      "hyperfocus",
+      "better retrieval",
+      "shorter attention spans",
+      "none of the given"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is shorter attention spans."
+  },
+  {
+    "id": 88,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 8,
+    "question": "___ learning is a crucial determinant of successful e-learning.",
+    "options": [
+      "passive",
+      "retrospective",
+      "social",
+      "active"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is active."
+  },
+  {
+    "id": 89,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 9,
+    "question": "The brain can process 36,000 visual cues per ___.",
+    "options": [
+      "hour",
+      "second",
+      "day",
+      "year"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is hour."
+  },
+  {
+    "id": 90,
+    "week": 9,
+    "weekTitle": "E-learning",
+    "number": 10,
+    "question": "For effective learning, online courses should ___.",
+    "options": [
+      "use headings",
+      "use complex language",
+      "present long pieces of text",
+      "use random images"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is use headings."
+  },
+  {
+    "id": 91,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 1,
+    "question": "During Covid-19, learners were prepared for the new normal of ___ learning.",
+    "options": [
+      "ineffective",
+      "physical",
+      "remote",
+      "experiential"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is remote."
+  },
+  {
+    "id": 92,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 2,
+    "question": "To develop readiness for online learning, training on ___ is helpful.",
+    "options": [
+      "netiquettes",
+      "time management",
+      "study skills",
+      "all of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 93,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 3,
+    "question": "The teacher as a dispenser of knowledge has been replaced by a ___.",
+    "options": [
+      "obstructor",
+      "parent",
+      "friend",
+      "facilitator"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is facilitator."
+  },
+  {
+    "id": 94,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 4,
+    "question": "Which is not one of the five skills the future teacher needs for the 21st century?",
+    "options": [
+      "strong social skills",
+      "data analysis",
+      "external focus",
+      "strictness"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is strictness."
+  },
+  {
+    "id": 95,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 5,
+    "question": "Participatory education demands ___ to build a needs-based approach to teaching.",
+    "options": [
+      "creativity",
+      "stubbornness",
+      "reward",
+      "none of the given"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is creativity."
+  },
+  {
+    "id": 96,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 6,
+    "question": "Students who consider intelligence malleable tend to focus on obstacles instead of goals.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment marks this false."
+  },
+  {
+    "id": 97,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 7,
+    "question": "Which is not a principle to enhance student learning?",
+    "options": [
+      "prior knowledge affects learning",
+      "learning is context-based",
+      "learning is limited by general stages of development",
+      "long-term acquisition depends on practice"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment identifies the general-stages limitation statement."
+  },
+  {
+    "id": 98,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 8,
+    "question": "___ feedback to students is important for learning.",
+    "options": [
+      "Unclear",
+      "Late",
+      "Harsh",
+      "Explanatory"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is explanatory."
+  },
+  {
+    "id": 99,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 9,
+    "question": "Mastery goals are geared towards acquisition or improvement of ___.",
+    "options": [
+      "Skills",
+      "number of students",
+      "teacher feedback",
+      "none of the given"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is skills."
+  },
+  {
+    "id": 100,
+    "week": 10,
+    "weekTitle": "Online Learning and Teaching",
+    "number": 10,
+    "question": "The vast majority of formative assessment is ___.",
+    "options": [
+      "Formal",
+      "Incorrect",
+      "Written",
+      "informal"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is informal."
+  },
+  {
+    "id": 101,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 1,
+    "question": "Social cognition has a protracted development through infancy to ___.",
+    "options": [
+      "teenage",
+      "old-age",
+      "adulthood",
+      "death"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is adulthood."
+  },
+  {
+    "id": 102,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 2,
+    "question": "Which abilities come under social cognition?",
+    "options": [
+      "Face processing",
+      "Joint attention",
+      "Theory of mind",
+      "All of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 103,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 3,
+    "question": "Under social cognition, abilities involved in affective processing are often called ___.",
+    "options": [
+      "hot",
+      "cold",
+      "white",
+      "black"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is hot."
+  },
+  {
+    "id": 104,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 4,
+    "question": "Social schemas refer to people’s mental representations of social ___.",
+    "options": [
+      "values",
+      "memories",
+      "skills",
+      "patterns"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is patterns."
+  },
+  {
+    "id": 105,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 5,
+    "question": "During the earliest stages of development, children are very ___-centric.",
+    "options": [
+      "selfish",
+      "ego",
+      "conscious",
+      "emotional"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is ego."
+  },
+  {
+    "id": 106,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 6,
+    "question": "A theory of mind refers to the ability to understand the ___ of other people.",
+    "options": [
+      "behaviors",
+      "family backgrounds",
+      "mental states",
+      "language"
+    ],
+    "correctIndex": 2,
+    "explanation": "The assignment answer is mental states."
+  },
+  {
+    "id": 107,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 7,
+    "question": "The same social behavior can have different meanings in different cultural settings.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment marks this true."
+  },
+  {
+    "id": 108,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 8,
+    "question": "Bandura’s social-cognitive theory focuses on ___.",
+    "options": [
+      "self-efficacy",
+      "modeling",
+      "observational learning",
+      "all of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "The assignment answer is all of the given."
+  },
+  {
+    "id": 109,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 9,
+    "question": "The central tenet of Bandura’s theory is that people seek a sense of ___ over important life events.",
+    "options": [
+      "agency",
+      "dependency",
+      "attachment",
+      "emotion"
+    ],
+    "correctIndex": 0,
+    "explanation": "The assignment answer is agency."
+  },
+  {
+    "id": 110,
+    "week": 11,
+    "weekTitle": "Social Cognition",
+    "number": 10,
+    "question": "Which hypothesis suggests social processes influence how information is selected, organized, integrated and retrieved?",
+    "options": [
+      "activation",
+      "cognitive influence",
+      "interaction",
+      "social cue strength"
+    ],
+    "correctIndex": 1,
+    "explanation": "The assignment answer is cognitive influence."
+  },
+  {
+    "id": 111,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 1,
+    "question": "Sustainability in economic sustainability is ___.",
+    "options": [
+      "multidimensional",
+      "bidimensional",
+      "unidimensional",
+      "none of the given"
+    ],
+    "correctIndex": 0,
+    "explanation": "From the screenshot: option A, multidimensional."
+  },
+  {
+    "id": 112,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 2,
+    "question": "The term “sustainable development” was first mentioned in a book related to the 1972 UN Stockholm conference on ___.",
+    "options": [
+      "water",
+      "poverty",
+      "economic crisis",
+      "human environment"
+    ],
+    "correctIndex": 3,
+    "explanation": "From the screenshot: option D, human environment."
+  },
+  {
+    "id": 113,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 3,
+    "question": "Environmental sustainability focuses on impacts of processes, products and services on ___.",
+    "options": [
+      "water",
+      "biodiversity",
+      "human health",
+      "all of the given"
+    ],
+    "correctIndex": 3,
+    "explanation": "From the screenshot: option D, all of the given."
+  },
+  {
+    "id": 114,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 4,
+    "question": "Which of the following does not come under social sustainability?",
+    "options": [
+      "Labour practices",
+      "Revenue generation",
+      "Human rights",
+      "Business ethics"
+    ],
+    "correctIndex": 1,
+    "explanation": "From the screenshot: option B, revenue generation."
+  },
+  {
+    "id": 115,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 5,
+    "question": "SDG ___ focuses on clean water and sanitation.",
+    "options": [
+      "1",
+      "17",
+      "6",
+      "3"
+    ],
+    "correctIndex": 2,
+    "explanation": "SDG 6 is Clean Water and Sanitation."
+  },
+  {
+    "id": 116,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 6,
+    "question": "SDG 16 focuses on ___.",
+    "options": [
+      "No poverty",
+      "No hunger",
+      "Good health",
+      "Peace and justice"
+    ],
+    "correctIndex": 3,
+    "explanation": "SDG 16 is Peace, Justice and Strong Institutions."
+  },
+  {
+    "id": 117,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 7,
+    "question": "On 20 October 2020, the Higher Education Sustainability Initiative raised the flag of higher education as a driver for sustainable development and inclusive societies on the first day of the ___.",
+    "options": [
+      "National Sustainability Meeting",
+      "National Teachers Meeting",
+      "Global Citizens’ Meeting",
+      "Global Education Meeting"
+    ],
+    "correctIndex": 3,
+    "explanation": "From the screenshot: option D, Global Education Meeting."
+  },
+  {
+    "id": 118,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 8,
+    "question": "Education is related to all SDGs.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "explanation": "The screenshot’s statement is true."
+  },
+  {
+    "id": 119,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 9,
+    "question": "Successful implementation of ESD requires a shift in focus from ___.",
+    "options": [
+      "teaching to learning",
+      "learning to teaching",
+      "reading to speaking",
+      "knowing to ignoring"
+    ],
+    "correctIndex": 0,
+    "explanation": "The screenshot answer is teaching to learning."
+  },
+  {
+    "id": 120,
+    "week": 12,
+    "weekTitle": "Sustainability and Education for Sustainable Development",
+    "number": 10,
+    "question": "___ competency is the ability to reflect on one’s role in the local community and (global) society.",
+    "options": [
+      "collaboration",
+      "self-awareness",
+      "strategic",
+      "normative"
+    ],
+    "correctIndex": 1,
+    "explanation": "This definition matches self-awareness competency."
+  }
+]
